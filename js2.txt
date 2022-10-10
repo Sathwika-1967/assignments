@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>this is title for album</title>
+<title>this is title for statue</title>
 </head>
 <body>
-samajavaragamana!
+kannamma!
 </body>
 </html>

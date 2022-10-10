@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-<title>my js assignment</title>
+<title>this is js1 assignment</title>
 </body>
 </head>
 </html>
