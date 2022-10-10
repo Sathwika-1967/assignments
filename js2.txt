@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>this is title for album</title>
+</head>
+<body>
+samajavaragamana!
+</body>
+</html>
