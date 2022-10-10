@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>this is name for movie</title>
+<title>this is name for series</title>
 </head>
 <body>
-Baahubali!
+Rakthacharitha!
 </body>
 </html>
