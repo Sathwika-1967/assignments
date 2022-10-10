@@ -1,1 +1,2 @@
-my name is sathwika patel.
+my name is sathwika patel karra.
+my father name is satyanarayana.
